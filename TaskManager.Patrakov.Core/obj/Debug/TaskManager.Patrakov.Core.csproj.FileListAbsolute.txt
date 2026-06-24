@@ -1,0 +1,9 @@
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Core\bin\Debug\TaskManager.Patrakov.Core.dll
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Core\bin\Debug\TaskManager.Patrakov.Core.pdb
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Core\obj\Debug\TaskManager.Patrakov.Core.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Core\obj\Debug\TaskManager.Patrakov.Core.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Core\obj\Debug\TaskMana.01D77BA2.Up2Date
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Core\obj\Debug\TaskManager.Patrakov.Core.dll
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Core\obj\Debug\TaskManager.Patrakov.Core.pdb

@@ -1,0 +1,13 @@
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\bin\Debug\TaskManager.Patrakov.Tests.exe.config
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\bin\Debug\TaskManager.Patrakov.Tests.exe
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\bin\Debug\TaskManager.Patrakov.Tests.pdb
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\bin\Debug\TaskManager.Patrakov.Core.dll
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\bin\Debug\TaskManager.Patrakov.Core.pdb
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\obj\Debug\TaskManager.Patrakov.Tests.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\obj\Debug\TaskManager.Patrakov.Tests.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\obj\Debug\TaskMana.30C9F292.Up2Date
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\obj\Debug\TaskManager.Patrakov.Tests.exe
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\obj\Debug\TaskManager.Patrakov.Tests.pdb
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov.Tests\obj\Debug\TaskManager.Patrakov.Tests.exe.config

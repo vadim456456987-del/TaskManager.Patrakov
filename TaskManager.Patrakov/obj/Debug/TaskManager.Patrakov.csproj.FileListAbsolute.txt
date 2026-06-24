@@ -1,0 +1,2 @@
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov\obj\Debug\TaskManager.Patrakov.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\TaskManager.Patrakov\TaskManager.Patrakov\obj\Debug\TaskManager.Patrakov.csproj.CoreCompileInputs.cache
